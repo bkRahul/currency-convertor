@@ -1,0 +1,11 @@
+.currency-container {
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.currency-container select {
+  margin-top: 25px;
+}
